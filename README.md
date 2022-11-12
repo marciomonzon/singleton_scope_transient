@@ -14,6 +14,6 @@ Only instanciated one time. Same value for all requests.
 
 Same value until the request is finished.
 
-## Transient (impermament):
+## Transient (impermanent):
 
 Will create a differents values for the same request.

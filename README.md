@@ -6,6 +6,14 @@
 </ul>
 
 
-## Singleton: <br>
+## Singleton:
 
-Only instanciated one time.
+Only instanciated one time. Same value for all requests.
+
+## Scoped:
+
+Same value until the request is finished.
+
+## Transient:
+
+Will create a differents values for the same request.

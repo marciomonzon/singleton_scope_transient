@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BGD6T+dKcY94SI5q0h3H+0mqIWyQvEeppnHWsGe44qI=",
+  "Source": "SingletonScopeTransient.Api",
+  "BasePath": "_content/SingletonScopeTransient.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
